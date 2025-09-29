@@ -1,0 +1,17 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: logoutputapp
+spec:
+  selector:
+    matchLabels:
+      app: logoutputapp
+  template:
+    metadata:
+      labels:
+        app: logoutputapp
+    spec:
+      containers:
+      - name: logoutputapp
+        image: japanpatel0305/log_output_app:slim
+        
