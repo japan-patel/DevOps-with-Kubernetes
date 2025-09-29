@@ -1,0 +1,5 @@
+FROM python:3.14.0rc3-alpine3.22
+WORKDIR /user/src/app
+COPY ./sourcecode/ .
+ENV PYTHONUNBUFFERED=1
+CMD ["python", "-u", "app.py"]
