@@ -3,3 +3,4 @@
 [1.1](https://github.com/japan-patel/DevOps-with-Kubernetes/tree/main/log_output) <br>
 [1.2](https://github.com/japan-patel/DevOps-with-Kubernetes/tree/main/web_server) <br>
 [1.3](https://github.com/japan-patel/DevOps-with-Kubernetes/tree/main/log_output) <br>
+[1.4](https://github.com/japan-patel/DevOps-with-Kubernetes/tree/main/web_server) <br>
